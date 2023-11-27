@@ -1,0 +1,36 @@
+customer{'acoount no.': '859', 'name': 'jghj', 'balance': '653'}
+2023-08-26 04:08:00.696583
+customer{'acoount no.': '4567', 'name': 'janvi', 'balance': '85654'}
+2023-08-26 06:13:38.157509
+customer{'acoount no.': '8567', 'name': 'vvvv', 'balance': '635'}
+2023-08-26 06:22:41.498078
+customer{'acoount no.': '9655', 'name': 'jjjj', 'balance': '865'}
+2023-08-26 06:22:41.498078
+customer{'acoount no.': '963', 'name': 'vvv', 'balance': '987456'}
+2023-08-26 08:53:07.636909
+customer{'acoount no.': '96385', 'name': 'ddd', 'balance': '98745'}
+2023-08-26 08:56:13.296462
+customer{'acoount no.': '96314', 'name': 'llll', 'balance': '85147'}
+2023-08-26 09:12:01.994387
+customer{'acoount no.': '9514', 'name': 'tttt', 'balance': '75369'}
+2023-08-26 09:16:42.683344
+customer{'acoount no.': '5468', 'name': 'rrrr', 'balance': '786354'}
+2023-08-26 09:22:42.292078
+customer{'acoount no.': 'fcshf', 'name': 'fbgr', 'balance': 'cnfbueg'}
+2023-08-26 09:34:35.768026
+customer{'acoount no.': 'e', 'name': 'bg', 'balance': 'lil'}
+2023-08-26 09:36:29.145104
+customer{'acoount no.': '89653', 'name': 'hjhnfdsuj', 'balance': '5689'}
+2023-08-26 09:39:35.681871
+customer{'acoount no.': '8956', 'name': 'fjk', 'balance': '5979'}
+2023-08-26 09:43:20.856678
+customer{'acoount no.': '85634', 'name': 'kkkk', 'balance': '63589'}
+2023-08-26 09:49:57.753973
+customer{'acoount no.': '987', 'name': 'aaa', 'balance': '999'}
+2023-08-27 04:14:45.900277
+customer{'acoount no.': 'cls', 'name': 'cls', 'balance': 'cls'}
+2023-08-27 04:21:00.122408
+customer{'acoount no.': '963', 'name': 'bbb', 'balance': '888'}
+2023-08-27 04:46:16.306773
+customer{'acoount no.': '951', 'name': 'ccc', 'balance': '888'}
+2023-08-27 04:46:16.306773
